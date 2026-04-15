@@ -5,3 +5,4 @@ scikit-learn
 matplotlib
 seaborn
 lightgbm
+geopy
